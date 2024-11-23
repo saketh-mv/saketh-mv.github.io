@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
+title: Semantic Odometry
 description: 
-img: assets/img/3.jpg
+img: assets/img/semantics.gif
 importance: 2
 category: work
 giscus_comments: false

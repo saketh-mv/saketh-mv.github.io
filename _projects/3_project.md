@@ -2,8 +2,8 @@
 layout: page
 title: Vivid Dreamer - Text-to-3D Mesh Generation
 description: 
-img: assets/img/7.jpg
-# redirect: https://unsplash.com
+img: assets/img/tiara.gif
+redirect: https://drive.google.com/file/d/1nhhBTaKQcUYS6MWLehpMoR1DqQR40ikt/view?usp=sharing
 importance: 3
 category: work
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Multi-Object Tracking
 description: 
-img: assets/img/12.jpg
+img: assets/img/mot.gif
 importance: 1
 category: work
 related_publications: false
