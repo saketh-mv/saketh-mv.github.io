@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Fog-based Distributed Camera Network system for Surveillance Applications" in Conference
+Our paper "Fog-based Distributed Camera Network system for Surveillance Applications" presented at IEEE ROBIO

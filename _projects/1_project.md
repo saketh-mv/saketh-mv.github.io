@@ -7,7 +7,9 @@ importance: 1
 category: work
 related_publications: false
 ---
-Developed an advanced Kalman filter system with probabilistic data association for MOT, significantly outperforming existing bounding-box-only methods in accuracy and robustness.
 
-Extending the algorithm to incorporate deep neural features for enhanced tracking performance similar to StrongSORT.
+Overview:
 
+Engineered an advanced KF-based multi-object tracking (MOT) system, leveraging probabilistic data association for superior tracking accuracy, increasing HOTA and MOTA metrics by almost 10%.
+
+Integrating ReID features into the tracking pipeline, inspired by StrongSORT, to improve robustness in real-time tracking under occlusions and cluttered scenes.
