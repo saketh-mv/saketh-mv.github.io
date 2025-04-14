@@ -50,13 +50,13 @@ horizontal: true
         <img src="/assets/img/semantics.gif" alt="Semantic Odometry" class="img-fluid rounded">
       </div>
       <div class="col-md-8">
-        <h3>Semantic Odometry </h3>
+        <h3>VLM-Based Semantic Odometry </h3>
         <p class="project-subtitle">Graduate Student Researcher under professor Nikolay Atanasov</p>
         <p class="project-description">
-            • Developed a semantic odometry pipeline on a small race car with NVIDIA Jetson nano, using RGBD images, combining Fast Point Feature Histogram(FPFH) features with FastSAM semantics to enhance robot pose
+            • Developed an end-to-end(E2E) odometry pipeline using foundation models (TinyCLIP) to extract semantic-spatial embeddings from RGB images, fused with FastSAM masks for precise localization on NVIDIA Jetson Nano
         </p>
         <p class="project-description">
-            • Integrated SE(3) transformations for continuous global registration and robot localization, while recognizing and categorizing robot activities (e.g., movement, interaction with objects) based on spatial-temporal cues.
+            • Fine-tuned the VLM on domain-specific race track data (e.g., cones, barriers) and optimized inference via TensorRT, achieving 20% higher accuracy than geometric baselines (FPFH) at 10Hz
         </p>
       </div>
     </div>
