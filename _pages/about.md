@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email - </p>
-    <p> sakethmvsaketh@gmail.com</p>
     <p> vmadhuvarasu@ucsd.edu</p>
 
 news: true # includes a list of news items
