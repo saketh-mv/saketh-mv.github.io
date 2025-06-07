@@ -111,7 +111,7 @@ horizontal: true
     <!-- Project 3 -->
     <div class="row project-item align-items-center">
       <div class="col-md-4">
-        <img src="assets/img/franka.jpg" alt="Roomba" class="img-fluid rounded">
+        <img src="/assets/img/franka.jpg" alt="Franks" class="img-fluid rounded">
       </div>
       <div class="col-md-8">
         <h3>Robot Arm Simulation and Perception</h3>
