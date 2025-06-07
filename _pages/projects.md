@@ -61,7 +61,7 @@ horizontal: true
       </div>
     </div>
     <h2>Techincal Projects</h2>
-    <!-- Project 3 -->
+    <!-- Project 1 -->
     <div class="row project-item align-items-center">
       <div class="col-md-4">
         <img src="/assets/img/tiara.gif" alt="Mesh Generation" class="img-fluid rounded">
@@ -77,7 +77,7 @@ horizontal: true
         </p>
       </div>
     </div>
-    <!-- Project 4 -->
+    <!-- Project 2 -->
     <div class="row project-item align-items-center">
       <div class="col-md-4">
         <img src="/assets/img/ece_285.png" alt="Multimodel Image generation" class="img-fluid rounded">
@@ -93,7 +93,7 @@ horizontal: true
         </p>
       </div>
     </div>
-    <!-- Project 4 -->
+    <!-- Project 3 -->
     <div class="row project-item align-items-center">
       <div class="col-md-4">
         <img src="/assets/img/hqdefault.jpg" alt="Roomba" class="img-fluid rounded">
@@ -105,6 +105,22 @@ horizontal: true
         </p>
           <p class="project-description">
             • Designed and implemented path planning algorithms (A*, RRT) and integrated SLAM techniques (EKF, ICP) for precise localization and mapping, with real-time Pose graph optimization and Loop closure constraints        
+            </p>
+      </div>
+    </div>
+    <!-- Project 3 -->
+    <div class="row project-item align-items-center">
+      <div class="col-md-4">
+        <img src="/assets/img/hqdefault.jpg" alt="Roomba" class="img-fluid rounded">
+      </div>
+      <div class="col-md-8">
+        <h3>Robot Arm Simulation and Perception</h3>
+        <p class="project-subtitle">ECE 276C: Robot Manipulation and Control<a href="https://drive.google.com/file/d/1O71ETYHTFYyidcvZDhlkCrnxSK1pXF7Y/view?usp=sharing" class="project-report">[Report]</a></p>
+        <p class="project-description">
+            • Simulated a Franka Panda 7-DOF robotic arm on an omnidirectional mobile base in PyBullet, integrating an end-effector mounted camera for real-time object tracking, motion estimation, and visual feedback control.
+        </p>
+          <p class="project-description">
+            • Developed an enhanced RRT* algorithm for mobile base path planning while maintaining manipulator reachability and designed a combined motion planning for efficient reaching behaviors.       
             </p>
       </div>
     </div>
@@ -123,7 +139,7 @@ horizontal: true
         </p>
       </div>
     </div>
-        <!-- Project 4 -->
+        <!-- Project 5 -->
     <div class="row project-item align-items-center">
       <div class="col-md-4">
         <img src="/assets/img/ifogsim.png" alt="ifogsim" class="img-fluid rounded">
