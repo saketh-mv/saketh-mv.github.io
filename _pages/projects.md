@@ -139,7 +139,22 @@ horizontal: true
         </p>
       </div>
     </div>
-        <!-- Project 5 -->
+    <!-- Project 5 -->
+    <div class="row project-item align-items-center">
+      <div class="col-md-4">
+        <img src="/assets/img/transunet.png" alt="TransUnet" class="img-fluid rounded">
+      </div>
+      <div class="col-md-8">
+        <h3>Application of DL approaches for Sinogram-based detections</h3>
+        <p class="project-description">
+         Implemented TranUnet architecture to automatically generate windowed sinograms from raw sinogram data, enhancing image quality and diagnostic accuracy in medical imaging applications.
+        </p>
+          <p class="project-description">
+          Conducted a comparative analysis of windowed sinogram outputs derived from various TranUnet configurations, discerning nuanced differences in performance based on the number of transformers utilized.
+        </p>
+      </div>
+    </div>
+        <!-- Project 6 -->
     <div class="row project-item align-items-center">
       <div class="col-md-4">
         <img src="/assets/img/ifogsim.png" alt="ifogsim" class="img-fluid rounded">
