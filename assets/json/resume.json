@@ -19,7 +19,7 @@
       "name": "Vimaan Robotics",
       "position": "Computer Vision Intern",
       "url": "https://vimaan.ai/",
-      "startDate": "2024-04",
+      "startDate": "2024-06",
       "endDate": "2024-09",
       "summary": "Developed an end-to-end pipeline for camera calibration and deployed an object detection and segmentation model based on companies data",
       "highlights": ["Pose Estimation", "Object Detection", "Segmentation"]
